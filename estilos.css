@@ -1,0 +1,217 @@
+body#LoginForm{ background-image:url("https://hdwallsource.com/img/2014/9/blur-26347-27038-hd-wallpapers.jpg"); background-repeat:no-repeat; background-position:center; background-size:cover; padding:10px;}
+
+.form-heading { color:#fff; font-size:23px;}
+.panel h2{ color:#444444; font-size:18px; margin:0 0 8px 0;}
+.panel p { color:#777777; font-size:14px; margin-bottom:30px; line-height:24px;}
+.login-form .form-control {
+  background: #f7f7f7 none repeat scroll 0 0;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 50px;
+  line-height: 50px;
+}
+.main-div {
+  background: #ffffff none repeat scroll 0 0;
+  border-radius: 2px;
+  margin: 10px auto 30px;
+  max-width: 38%;
+  padding: 50px 70px 70px 71px;
+}
+
+.login-form .form-group {
+  margin-bottom:10px;
+}
+.login-form{ text-align:center;}
+.forgot a {
+  color: #777777;
+  font-size: 14px;
+  text-decoration: underline;
+}
+.login-form  .btn.btn-primary {
+  background: #f0ad4e none repeat scroll 0 0;
+  border-color: #f0ad4e;
+  color: #ffffff;
+  font-size: 14px;
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  padding: 0;
+}
+.forgot {
+  text-align: left; margin-bottom:30px;
+}
+.botto-text {
+  color: #ffffff;
+  font-size: 14px;
+  margin: auto;
+}
+.login-form .btn.btn-primary.reset {
+  background: #ff9900 none repeat scroll 0 0;
+}
+.back { text-align: left; margin-top:10px;}
+.back a {color: #444444; font-size: 13px;text-decoration: none;
+}
+
+.global-div{
+    position:absolute;
+    float:none;
+    width:auto;
+    height:auto;  
+    margin:5px 0 0 0 ;
+    padding:0 1px 1px 1px;
+    border:5px solid #fff;
+    background:#fff;
+    box-shadow:0 0 5px #999;
+    -moz-box-shadow:0 0 5px #999;
+    -webkit-box-shadow:0 0 5px #999; 
+}
+li {
+    list-style-type: none;
+  }
+
+        body {
+            font-family: "Open Sans", sans-serif;
+        }
+        h2 {
+            color: #000;
+            font-size: 26px;
+            font-weight: 300;
+            text-align: center;
+            text-transform: uppercase;
+            position: relative;
+            margin: 30px 0 80px;
+        }
+        h2 b {
+            color: #ffc000;
+        }
+        h2::after {
+            content: "";
+            width: 100px;
+            position: absolute;
+            margin: 0 auto;
+            height: 4px;
+            background: rgba(0, 0, 0, 0.2);
+            left: 0;
+            right: 0;
+            bottom: -20px;
+        }
+        .carousel {
+            margin: 50px auto;
+            padding: 0 70px;
+        }
+        .carousel .item {
+            min-height: 330px;
+            text-align: center;
+            overflow: hidden;
+        }
+        .carousel .item .img-box {
+            height: 160px;
+            width: 100%;
+            position: relative;
+        }
+        .carousel .item img {	
+            max-width: 100%;
+            max-height: 100%;
+            display: inline-block;
+            position: absolute;
+            bottom: 0;
+            margin: 0 auto;
+            left: 0;
+            right: 0;
+        }
+        .carousel .item h4 {
+            font-size: 18px;
+            margin: 10px 0;
+        }
+        .carousel .item .btn {
+            color: #333;
+            border-radius: 0;
+            font-size: 11px;
+            text-transform: uppercase;
+            font-weight: bold;
+            background: none;
+            border: 1px solid #ccc;
+            padding: 5px 10px;
+            margin-top: 5px;
+            line-height: 16px;
+        }
+        .carousel .item .btn:hover, .carousel .item .btn:focus {
+            color: #fff;
+            background: #000;
+            border-color: #000;
+            box-shadow: none;
+        }
+        .carousel .item .btn i {
+            font-size: 14px;
+            font-weight: bold;
+            margin-left: 5px;
+        }
+        .carousel .thumb-wrapper {
+            text-align: center;
+        }
+        .carousel .thumb-content {
+            padding: 15px;
+        }
+        .carousel .carousel-control {
+            height: 100px;
+            width: 40px;
+            background: none;
+            margin: auto 0;
+            background: rgba(184, 15, 176, 0.2);
+            color: rgba(17, 0, 255, 0.8);
+        }
+        .carousel .carousel-control i {
+            font-size: 30px;
+            position: absolute;
+            top: 50%;
+            display: inline-block;
+            margin: -16px 0 0 0;
+            z-index: 5;
+            left: 0;
+            right: 0;
+            color: rgba(17, 0, 255, 0.8);
+            text-shadow: none;
+            font-weight: bold;
+        }
+        .carousel .item-price {
+            font-size: 13px;
+            padding: 2px 0;
+        }
+        .carousel .item-price strike {
+            color: rgb(190, 92, 92);
+            margin-right: 5px;
+        }
+        .carousel .item-price span {
+            color: #86bd57;
+            font-size: 110%;
+        }
+        .carousel .carousel-control.left i {
+            margin-left: -3px;
+        }
+        .carousel .carousel-control.left i {
+            margin-right: -3px;
+        }
+        .carousel .carousel-indicators {
+            bottom: -50px;
+        }
+        .carousel-indicators li, .carousel-indicators li.active {
+            width: 10px;
+            height: 10px;
+            margin: 4px;
+            border-radius: 50%;
+            border-color: transparent;
+        }
+        .carousel-indicators li {	
+            background: rgba(0, 0, 0, 0.2);
+        }
+        .carousel-indicators li.active {	
+            background: rgba(0, 0, 0, 0.6);
+        }
+        .star-rating li {
+            padding: 0;
+        }
+        .star-rating i {
+            font-size: 14px;
+            color: #ffc000;
+        }
